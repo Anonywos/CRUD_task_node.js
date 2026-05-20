@@ -1,0 +1,6 @@
+title,description
+Estudar Node.js,Revisar conceitos de HTTP e rotas
+Criar middleware JSON,Implementar leitura do body da requisição
+Testar rota POST,Enviar uma task pelo Postman
+Importar CSV,Ler o arquivo CSV e cadastrar tasks automaticamente
+Finalizar desafio,Testar todas as rotas da aplicação
